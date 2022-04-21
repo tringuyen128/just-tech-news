@@ -19,6 +19,10 @@ The Tech Blog is a blog website where developers can publish their blog posts an
 
 
 
+## Demo
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/73785514/164366463-d6aba6ba-94e8-456d-8f1e-650c6be5dfea.gif)
+
+
 ## User Story 
 AS A developer who writes about tech<br />
 I WANT a CMS-style blog site<br />

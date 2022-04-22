@@ -1,4 +1,4 @@
-# Tech Blog 
+# Tech Blog News 
 
 ## Description
 
